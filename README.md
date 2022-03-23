@@ -16,7 +16,6 @@ I'm Dang Nguyen Phu Nguyen😉, developer 👨🏻 from VietNam. I'm a student o
 - 🌱 I’m currently learning <strong>TypeScript</strong> and <strong>React Native</strong>
 - 🤔 My research interests are with <strong>NodeJS and .Net framework</strong>
 - 🔍 I’m looking for career opportunities in the <strong>developing</strong> industry
-- 👀 See my [Personal Portfolio](https://github.com/nguyendang127) to get more info
 
 ### Tools I work upon : 🛠
 
