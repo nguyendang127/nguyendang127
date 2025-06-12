@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Dang Nguyen Phu Nguyen😉, developer 👨🏻 from VietNam. I'm a student of Can Tho University.
+I'm Dang Nguyen Phu Nguyen😉, developer 👨🏻 from VietNam.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=I'm+a+FrontEnd+Developer;Passionate+about+ReactJS+)](https://git.io/typing-svg)
 
